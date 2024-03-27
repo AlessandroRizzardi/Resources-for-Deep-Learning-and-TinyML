@@ -4,23 +4,23 @@
 ---
 *LISTA ARTICOLI UTILI*
 
-- [Deep Learning Nature](Pdf/Deep%20learning%20Nature.pdf): interessante rewiev sul deep learning in cui spiega i concetti generali seguendo un po' l'avvicendamento storico. interessante il fatto che sono segnati con brevi commenti i paper che hanno avuto un maggiore impatto. Spiega anche nel dettaglio l'idea generale di come funziona una CNN ma ho fatto fatica a seguire il discorso.
+- [Deep Learning Nature](PDFs/Deep%20learning%20Nature.pdf): interessante rewiev sul deep learning in cui spiega i concetti generali seguendo un po' l'avvicendamento storico. interessante il fatto che sono segnati con brevi commenti i paper che hanno avuto un maggiore impatto. Spiega anche nel dettaglio l'idea generale di come funziona una CNN ma ho fatto fatica a seguire il discorso.
 
-- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](Pdf/Dropout_%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20%20Overfitting.pdf)
+- [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](PDFs/Dropout_%20A%20Simple%20Way%20to%20Prevent%20Neural%20Networks%20from%20%20Overfitting.pdf)
 
-- [GradientBased Learning Applied to Document Recognition](Pdf/GradientBased%20Learning%20Applied%20to%20Document%20%20Recognition.pdf)
+- [GradientBased Learning Applied to Document Recognition](PDFs/GradientBased%20Learning%20Applied%20to%20Document%20%20Recognition.pdf)
 
-- [A Comprehensive Survey on TinyML](Pdf/TinyML-Survey-Journal-Paper-With-Highlight.pdf)
+- [A Comprehensive Survey on TinyML](PDFs/TinyML-Survey-Journal-Paper-With-Highlight.pdf)
 
-- [TinyML: Tools, Applications, Challenges, and Future   Research Directions](Pdf/TinyML_%20Tools,%20Applications,%20Challenges,%20and%20Future%20Research%20%20Directions.pdf)
+- [TinyML: Tools, Applications, Challenges, and Future   Research Directions](PDFs/TinyML_%20Tools,%20Applications,%20Challenges,%20and%20Future%20Research%20%20Directions.pdf)
 
-- [Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint](Pdf/Rethinking%20Generalization%20in%20American%20Sign.pdf)
+- [Rethinking Generalization in American Sign Language Prediction for Edge Devices with Extremely Low Memory Footprint](PDFs/Rethinking%20Generalization%20in%20American%20Sign.pdf)
 
-- [DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING](Pdf/DEEP%20COMPRESSION_%20COMPRESSING%20DEEP%20NEURAL%20NETWORKS%20WITH%20PRUNING,%20TRAINED%20QUANTIZATION%20AND%20HUFFMAN%20CODING.pdf)
+- [DEEP COMPRESSION: COMPRESSING DEEP NEURAL NETWORKS WITH PRUNING, TRAINED QUANTIZATION AND HUFFMAN CODING](PDFs/DEEP%20COMPRESSION_%20COMPRESSING%20DEEP%20NEURAL%20NETWORKS%20WITH%20PRUNING,%20TRAINED%20QUANTIZATION%20AND%20HUFFMAN%20CODING.pdf)
 
-- [TinyML: Enabled Frugal Smart Objects Challenges and Opportunities](Pdf/TinyML-Enabled_Frugal_Smart_Objects_Challenges_and_Opportunities.pdf)
+- [TinyML: Enabled Frugal Smart Objects Challenges and Opportunities](PDFs/TinyML-Enabled_Frugal_Smart_Objects_Challenges_and_Opportunities.pdf)
 
-- [Software Engineering Approaches for TinyML based IoT Embedded Vision_ A Systematic Literature Review](Pdf/Software%20Engineering%20Approaches%20for%20TinyML%20based%20IoT%20Embedded%20Vision_%20A%20Systematic%20Literature%20Review.pdf)
+- [Software Engineering Approaches for TinyML based IoT Embedded Vision_ A Systematic Literature Review](PDFs/Software%20Engineering%20Approaches%20for%20TinyML%20based%20IoT%20Embedded%20Vision_%20A%20Systematic%20Literature%20Review.pdf)
 ---
 *LISTA VIDEO UTILI*
 
